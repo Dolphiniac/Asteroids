@@ -1,8 +1,0 @@
-﻿  Generating code
-  1276 of 2604 functions (49.0%) were compiled, the rest were copied from previous compilation.
-    173 functions were new in current compilation
-    170 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  Game.vcxproj -> D:\GitPortfolios\Asteroids\Asteroids\Temporary\Asteroids_Win32_Release\Asteroids.exe
-  D:\GitPortfolios\Asteroids\Asteroids\Temporary\Asteroids_Win32_Release\Asteroids.exe -> D:\GitPortfolios\Asteroids\Asteroids\Run_Win32\Asteroids.exe
-  1 File(s) copied
