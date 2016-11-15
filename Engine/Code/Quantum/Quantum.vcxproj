@@ -150,7 +150,7 @@
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <CompileAsWinRT>false</CompileAsWinRT>
       <SDLCheck>true</SDLCheck>
-      <AdditionalIncludeDirectories>$(SolutionDir)../../Engine/Code</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)../Engine/Code</AdditionalIncludeDirectories>
       <WarningLevel>Level4</WarningLevel>
       <ForcedIncludeFiles>Quantum/QuantumCommon.h</ForcedIncludeFiles>
       <PreprocessorDefinitions>__X86;_UNICODE;UNICODE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
